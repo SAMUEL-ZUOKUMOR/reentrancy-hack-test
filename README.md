@@ -3,7 +3,7 @@
 `What is re-entrancy?`
 Re-Entrancy is the vulnerability in which if Contract A calls a function in Contract B, Contract B can then call back into Contract A while Contract A is still processing.
 
-#!!
+##    !!
 `This is a project work to test my knowledge on re-entry hacking`
 A tutorial by <a href="http://www.learnweb3.io"> `learnweb3.io`</a> platform
 
